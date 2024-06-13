@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+
+echo 'Hey There! Welcome to the script for making a base project';
+touch index.html;
+echo '!' > index.html;
+echo 'Enjoy the HTML File!';
+touch main.js;
+echo 'Main Javascript File created!';
+touch style.css;
+echo 'Main CSS File created!';
+
